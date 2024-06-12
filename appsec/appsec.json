@@ -1,0 +1,8 @@
+{
+   "practice_main": "Welcome to AppSec Practices",
+   "practice_sast": "Static Application Security Testing (SAST) helps detect code flaws by analyzing the application source files for root causes. It enables comparing static analysis scan results with real-time solutions to quickly detect security problems, decrease the mean time to repair (MTTR), and troubleshoot collaboratively.",
+   "practice_dast": "Dynamic Application Security Testing (DAST) is a proactive testing approach that simulates security breaches on a running web application to identify exploitable flaws. These tools evaluate applications in production to help detect runtime or environment-related errors.",
+   "practice_iast": "Interactive Application Security Testing (IAST) utilizes SAST and DAST elements, performing analysis in real-time or at any SDLC phase from within the application. IAST tools get access to the application's code and components, which means the tools achieve the in-depth access needed to produce accurate results.",
+   "practice_rasp": "Runtime Application Security Protection (RASP) tools work within the application to provide continuous security checks and automatically respond to possible breaches. Common responses include alerting IT teams and terminating a suspicious session.",
+   "practice_mast": "Mobile Application Security Testing (MAST) tools test the security of mobile applications using various techniques, such as performing static and dynamic analysis and investigating forensic data gathered by mobile applications. MAST tools help identify mobile-specific issues and security vulnerabilities, such as malicious WiFi networks, jailbreaking, and data leakage from mobile devices."
+}
